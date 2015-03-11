@@ -1,0 +1,204 @@
+body {
+	margin-top: 0px;
+ 	margin-right: 0px;
+ 	margin-bottom: 0px;
+ 	margin-left: 0px
+}
+
+ul.navTabs {
+	list-style: none;
+  float: right;
+}
+
+li.navLi {
+	float: left;
+  margin-left: 25px;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+    color: white;
+}
+
+#page1 {
+  position: relative;
+	background: url("http://www.worldsciencefestival.com/wp-content/uploads/2014/07/1926-ford-model-t-assembly-line.jpg") no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+}	
+
+.logo {
+  margin: auto;
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 250px;
+}
+
+#page2 {
+  position: relative;
+	background: url("http://s.hswstatic.com/gif/1950-1951-ford-crestliner-2.jpg") no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+}
+
+img.aboutPic {
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 920px;
+    margin-top: 155px;
+}
+
+.aboutKeith {
+  font-size: 18px;
+	float: left;
+	background-color: black;
+	color: white;
+	text-align: center;
+  position: absolute;
+	margin-left: 100px;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+    width: 700px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#page3 {
+  position: relative;
+	background: url("http://mustangattitude.com/mustang/1980/1980_00011_04.jpg") no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+}
+
+.developerDirection {
+  background: #F0F0F0;
+  text-align: center;
+  margin: 30px 0 100;
+  height: 170px;
+  border-radius: 10px;
+  font-color: #FFFFFF;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  border: 5px solid black;
+}
+
+.form-control{
+  margin: 10px 0 0;
+}
+
+.form-group {
+  width: 90%;
+  text-align: center;
+  margin: 30px 0 0;
+}
+
+.matchingCompany {
+background: white;
+width: 90%;
+margin: 30px 0 100;
+height: 40px;
+border-radius: 5px;
+padding-left: 10px;
+border: 3px solid black;
+margin-top: 73px;
+}
+
+.matchingCompany ul {
+margin-left: 10px;
+list-style: none;
+float: right;
+font-size: 20px;
+}
+
+#page4 {
+  position: relative;
+	background: url("http://images.thetruthaboutcars.com/2012/10/04-1996-Ford-Taurus-SHO-Down-On-the-Junkyard-Picture-courtesy-of-Murilee-Martin-450x337.jpg") no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+}
+
+.companyDirection {
+  background: #F0F0F0;
+  text-align: center;
+  margin: 30px 0 50;
+  height: 190px;
+  border-radius: 10px;
+  font-color: #FFFFFF;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 18px;
+  border: 5px solid black;
+}
+
+#companyForm {
+  margin: 10px 0 0;
+}
+
+#page5 {
+  position: relative;
+	background: url("http://www.wallpaperfo.com/thumbnails/detail/20130131/engines%20muscle%20cars%20vehicles%20ford%20mustang%20ford%20mustang%20gt%20v8%20engine%201920x1440%20wallpaper_www.wallpaperfo.com_97.jpg") no-repeat center center fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+}
+
+.matchingCompany li {
+color: black;
+float: left;
+font-weight: bold;
+font-size: 20px;
+margin-right: 120px;
+margin-top: 2px;
+}
+
+#socialIcons {
+  margin: auto;
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 300px;
+}
+
+a.socialIcons:hover {
+opacity: .8;
+filter:alpha(opacity=80); /* For IE8 and earlier */
+}
